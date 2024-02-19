@@ -1,0 +1,9 @@
+asciichart==0.1
+click==8.1.7
+colorama==0.4.6
+openmeteo_requests==1.2.0
+openmeteo_sdk==1.10.0
+python-dotenv==1.0.1
+requests-cache==1.2.0
+retry-requests==2.0.0
+setuptools==65.5.0
