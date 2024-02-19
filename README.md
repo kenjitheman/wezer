@@ -13,22 +13,14 @@ Wezer is a command-line weather app that provides weather information with color
 0. Clone the repository:
 
 ```sh
-git clone https://github.com/kenjitheman/wezer
+pip install wezer
 ```
 
-1. Install dependencies:
+1. Use -h or --help to view the help message:
 
 ```sh
-pip install -r requirements.txt
+wezer --help
 ```
-
-2. Run the CLI app:
-
-```sh
-python -m wezer.cli <location>
-```
-
-Replace `<location>` with the desired location.
 
 ## Contributing
 
@@ -38,4 +30,4 @@ Replace `<location>` with the desired location.
 
 ## License
 
-- [MIT](./LICENSE).
+- [MIT](./LICENSE)
